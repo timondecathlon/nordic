@@ -12,7 +12,7 @@
 
             function init(){
                 var myMap = new ymaps.Map("map", {
-                    center: [55.76, 37.64],
+                    center: [55.77, 37.65], 
                     zoom: 3  
                 });
 
@@ -53,6 +53,7 @@
 
     <body>
         <div id="map" style="width: 600px; height: 400px"></div>
+        Данные которые были введены во второй версии файла бла бла бла
     </body>
 
 </html>
